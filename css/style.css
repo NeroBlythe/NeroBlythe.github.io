@@ -1,11 +1,11 @@
 body {
     background-color: black;
-    color: white;
+    color: lightgray;
     font-style: Courier New;
 }
 
 a {
-    color: lightgray;
+    color: gray;
 }
 
 #name {
