@@ -1,14 +1,10 @@
 body {
     text-align: center;
-    background-color: black;
     color: white;
     font-family: Courier New;
+    background-color: black;
 }
 
 .small {
     font-size: 5px;
-}
-
-.routing {
-    height: 50px;
 }
