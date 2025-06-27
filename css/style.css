@@ -1,31 +1,10 @@
 body {
-    background-color: black;
-    color: lightgray;
-    font-style: Courier New;
-    text-align: center; 
+    text-align: center;
+    background-color: white;
+    color: white;
+    font-family: Courier New;
 }
 
-h3 {
-    font-size: 25px;
-}
-
-img {
-    border-radius: 0 50px 0 50px;
-}
-
-a {
-    color: lightgray;
-    display: block;
-    background-color: black;
-    margin: 0 125px 0 125px;
-    padding: 2px 0 2px 0;
-    border-radius: 4px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: gray;
-}
-
-#name {
-    font-size: 7px;
-    font-family: 
+.small {
+    font-size: 5px;
 }
