@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: lightgray;
     font-style: Courier New;
+    text-align: center; 
 }
 
 a {
