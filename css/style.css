@@ -1,3 +1,7 @@
+.container {
+    display: flex;
+}
+
 body {
     text-align: center;
     color: white;
