@@ -36,4 +36,6 @@ body {
     position: absolute;
     left: 0px;
     bottom: 50%;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
 }
