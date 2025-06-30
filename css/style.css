@@ -23,3 +23,13 @@ body {
 .nav-image {
     border-radius: 100px;
 }
+
+.background-img {
+    position: absolute;
+
+}
+
+#sidebar {
+    position: absolute;
+    left: 0px;
+}
