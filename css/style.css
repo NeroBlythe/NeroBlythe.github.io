@@ -30,6 +30,7 @@ body {
     width: -webkit-fill-available;
     height: -webkit-fill-available;
     opacity: 35%;
+    z-index: -1;
 }
 
 #sidebar {
@@ -38,4 +39,5 @@ body {
     bottom: 50%;
     width: -webkit-fill-available;
     height: -webkit-fill-available;
+    z-index: -1;
 }
