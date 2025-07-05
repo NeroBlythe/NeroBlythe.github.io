@@ -21,7 +21,13 @@ button {
     padding-top: 10px;
 }
 
-footer {
-    bottom: 10px;
-    color: black;
+#nav {
+    position: absolute;
+    display: inline-block;
+    left: 43%;
+    bottom: 1%;
+}
+
+a {
+    color: white;
 }
