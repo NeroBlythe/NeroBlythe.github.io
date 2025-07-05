@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: gray;
+    background-color: darkseagreen;
     color: white;
 }
 
@@ -10,4 +10,10 @@ button {
     border: solid;
     border-color: black;
     border-width: 3px;
+}
+
+#secret-button {
+    border: solid;
+    border-width: 5px;
+    border-color: white;
 }
