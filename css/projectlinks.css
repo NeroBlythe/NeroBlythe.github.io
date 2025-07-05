@@ -3,3 +3,13 @@ body {
     background-color: black;
     color: white;
 }
+
+.projects {
+    display: inline-block;
+    text-align: center;
+    border: solid;
+    padding: 5px;
+    margin: 10px;
+    color: lightgray;
+    font-size: 20px;
+}
