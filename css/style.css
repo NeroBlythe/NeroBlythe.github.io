@@ -6,6 +6,19 @@ header {
     width: 100%;
 }
 
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: black url(https://github.com/NeroBlythe/NeroBlythe.github.io/blob/main/images/wp13209518-fear-and-hunger-wallpapers.jpg?raw=true) center center no-repeat;
+    ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 body {
     text-align: center;
     color: white;
@@ -23,18 +36,6 @@ body {
 
 .nav-image {
     border-radius: 100px;
-}
-
-.background-img {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: -50%;
-    background-size: cover;
-    background-position: center;
-    opacity: 75%;
-    z-index: -2;
 }
 
 #sidebar {
